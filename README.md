@@ -1,0 +1,5 @@
+# Find your lawmaker app
+
+The [Find your Lawmakers application](http://www.wral.com/a-new-way-to-find-your-government-representatives/14442199/) uses mostly open-source code to quickly find the legislative districts associated with a user's address.
+
+The map (not visible on the mobile version), is powered by the [http://leafletjs.com/ Leaflet Javascript library]. The code that converts addresses to specific GPS coordinates is provided through Google Maps. To detect the districts, we're using a code library called [Wherewolf](http://github.com/veltman/wherewolf/), developed by journalists at New York public radio station WNYC. Shapefiles, which define the districts for the state Senate and House of Representatives, as well as the the U.S. Senate and U.S. House of Representatives, are [provided by the North Carolina General Assembly](http://ncleg.net/representation/Redistricting.aspx).

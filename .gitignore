@@ -1,0 +1,5 @@
+#Ignore these directories
+/old
+
+#ignore these files
+.DS_Store
