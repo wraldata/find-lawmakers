@@ -1,10 +1,6 @@
 /*
 Find your lawmakers app
 Created by Tyler Dukes using Wherewolf.js
-
-upgraded version uses unified EID spreadsheet for easy updating.
-
-http://www.wral.com/news/state/nccapitol/data_set/14376504/
 */
 
 require([
